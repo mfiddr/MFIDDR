@@ -47,7 +47,7 @@ MFIDDR
 ```
 
 ## Citation
-If you find MVCINN useful for your research, please consider citing the following papers:
+If you find MFIDDR useful for your research, please consider citing the following papers:
 ```
 @inproceedings{luo2023mvcinn,
   title={MVCINN: multi-view diabetic retinopathy detection using a deep cross-interaction neural network},
