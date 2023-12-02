@@ -9,9 +9,6 @@ Diabetic retinopathy (DR) is a major cause of irreversible visual impairment and
 <strong>Figure1</strong>: Samples in five DR stages (i.e. normal, mild NPDR, moderate NPDR, severe NPDR and PDR) of our MFIDDR database. F1: the images centered on the macula, F2: the images centered on the optic disc, F3: the images above the horizontal line on the optic disc, F4: the images below the horizontal line on the optic disc.
 </div>
 
-## Download
-Full dataset can be accessed via 
-[Google Drive](https://drive.google.com/drive/folders/1wsoTlSYsOqVdCkGpJv_0yipWIQJnaqJk).
 
 For a sample of MFIDDR, clone this repository with `git clone https://github.com/mfiddr/MFIDDR.git`.
 
