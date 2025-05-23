@@ -43,3 +43,38 @@ MFIDDR
 └── test_fourpic_label.csv
 ```
 
+## Download
+Full dataset can be accessed via [MFIDDR](https://docs.google.com/forms/d/1nef1XbcVJtHfSDcbu04PVw9Y4B8jipIWcRXsDgpwI3Q/edit?pli=1).
+
+## Citation
+If you find MFIDDR useful for your research, please consider citing the following papers:
+```
+@inproceedings{luo2023mvcinn,
+title={MVCINN: multi-view diabetic retinopathy detection using a deep cross-interaction neural network},
+author={Luo, Xiaoling and Liu, Chengliang and Wong, Waikeung and Wen, Jie and Jin, Xiaopeng and Xu, Yong},
+booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+volume={37},
+number={7},
+pages={8993--9001},
+year={2023}
+}
+
+@article{luo2024lesion,
+  title={A Lesion-Fusion Neural Network for Multi-View Diabetic Retinopathy Grading},
+  author={Luo, Xiaoling and Xu, Qihao and Wang, Zhihua and Huang, Chao and Liu, Chengliang and Jin, Xiaopeng and Zhang, Jianguo},
+  journal={IEEE Journal of Biomedical and Health Informatics},
+  year={2024},
+  publisher={IEEE}
+}
+
+@inproceedings{luo2025like,
+  title={Like an Ophthalmologist: Dynamic Selection Driven Multi-View Learning for Diabetic Retinopathy Grading},
+  author={Luo, Xiaoling and Xu, Qihao and Wu, Huisi and Liu, Chengliang and Lai, Zhihui and Shen, Linlin},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={18},
+  pages={19224--19232},
+  year={2025}
+}
+
+```
