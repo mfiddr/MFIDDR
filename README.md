@@ -77,4 +77,12 @@ year={2023}
   year={2025}
 }
 
+@article{luo2026mfiddr,
+  title={A Large-Scale Multi-View Fundus Images Dataset and Benchmark for Diabetic Retinopathy Grading},
+  author={Luo, Xiaoling and Zheng, Qiaojian and Chen, Yangneng and Liu, Chengliang and Dou, Xiaoyan and Luo, Tianyi and Wen, Yingying and Huang, Chao and Xu, Yong and Wen, Jie},
+  journal={Information Fusion},
+  year={2026},
+  publisher={Elsevier}
+}
+
 ```
