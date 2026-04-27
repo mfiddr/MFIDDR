@@ -44,11 +44,19 @@ MFIDDR
 ```
 
 ## Download
-Full dataset can be accessed via [MFIDDR](https://drive.google.com/drive/folders/1wsoTlSYsOqVdCkGpJv_0yipWIQJnaqJk?usp=sharing)
+Full dataset can be accessed via [MFIDDR]([https://drive.google.com/drive/folders/1wsoTlSYsOqVdCkGpJv_0yipWIQJnaqJk?usp=sharing](https://docs.google.com/forms/d/13fHj6ejN_lHiTF4GKuot8wklIxyygkc2khqqe0ItaOg/edit?hl=zh-cn))
 
 ## Citation
 If you find MFIDDR useful for your research, please consider citing the following papers:
 ```
+@article{luo2026mfiddr,
+  title={A Large-Scale Multi-View Fundus Images Dataset and Benchmark for Diabetic Retinopathy Grading},
+  author={Luo, Xiaoling and Zheng, Qiaojian and Chen, Yangneng and Liu, Chengliang and Dou, Xiaoyan and Luo, Tianyi and Wen, Yingying and Huang, Chao and Xu, Yong and Wen, Jie},
+  journal={Information Fusion},
+  year={2026},
+  publisher={Elsevier}
+}
+
 @inproceedings{luo2023mvcinn,
 title={MVCINN: multi-view diabetic retinopathy detection using a deep cross-interaction neural network},
 author={Luo, Xiaoling and Liu, Chengliang and Wong, Waikeung and Wen, Jie and Jin, Xiaopeng and Xu, Yong},
@@ -77,12 +85,5 @@ year={2023}
   year={2025}
 }
 
-@article{luo2026mfiddr,
-  title={A Large-Scale Multi-View Fundus Images Dataset and Benchmark for Diabetic Retinopathy Grading},
-  author={Luo, Xiaoling and Zheng, Qiaojian and Chen, Yangneng and Liu, Chengliang and Dou, Xiaoyan and Luo, Tianyi and Wen, Yingying and Huang, Chao and Xu, Yong and Wen, Jie},
-  journal={Information Fusion},
-  year={2026},
-  publisher={Elsevier}
-}
 
 ```
