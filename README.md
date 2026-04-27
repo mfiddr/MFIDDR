@@ -44,7 +44,7 @@ MFIDDR
 ```
 
 ## Download
-Full dataset can be accessed via [MFIDDR]([https://drive.google.com/drive/folders/1wsoTlSYsOqVdCkGpJv_0yipWIQJnaqJk?usp=sharing](https://docs.google.com/forms/d/13fHj6ejN_lHiTF4GKuot8wklIxyygkc2khqqe0ItaOg/edit?hl=zh-cn))
+Full dataset can be accessed via [MFIDDR](https://docs.google.com/forms/d/e/1FAIpQLSdQLra-4lEtG6zrASbtPf_Dd5zyEEmQv0HMDgJPBdo97O1qPg/viewform?usp=header)
 
 ## Citation
 If you find MFIDDR useful for your research, please consider citing the following papers:
