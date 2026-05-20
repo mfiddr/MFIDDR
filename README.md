@@ -44,7 +44,7 @@ MFIDDR
 ```
 
 ## Download
-Full dataset can be accessed via [MFIDDR (a new link)](https://docs.google.com/forms/d/e/1FAIpQLSdQLra-4lEtG6zrASbtPf_Dd5zyEEmQv0HMDgJPBdo97O1qPg/viewform?usp=header). 
+Full dataset can be accessed via [MFIDDR (a new link)](https://docs.google.com/forms/d/e/1FAIpQLSdQLra-4lEtG6zrASbtPf_Dd5zyEEmQv0HMDgJPBdo97O1qPg/viewform?usp=header). If you encounter any issues during access, download, or the application process, please contact us at *mfiddr@gmail.com*.
 
 ## Citation
 If you find MFIDDR useful for your research, please consider citing the following papers:
@@ -84,6 +84,4 @@ year={2023}
   pages={19224--19232},
   year={2025}
 }
-
-
 ```
