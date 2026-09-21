@@ -54,9 +54,9 @@ If you find MFIDDR useful for your research, please consider citing the followin
   author={Luo, Xiaoling and Zheng, Qiaojian and Chen, Yangneng and Liu, Chengliang and Dou, Xiaoyan and Luo, Tianyi and Wen, Yingying and Huang, Chao and Xu, Yong and Wen, Jie},
   journal={Information Fusion},
   year={2026},
-  volume = {134},
-  pages = {104363},
-  issn = {1566-2535},
+  volume={134},
+  pages={104363},
+  issn={1566-2535},
   publisher={Elsevier}
 }
 
