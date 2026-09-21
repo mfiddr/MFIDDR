@@ -71,13 +71,13 @@ If you find MFIDDR useful for your research, please consider citing the followin
 }  
 
 @inproceedings{luo2023mvcinn,
-title={MVCINN: multi-view diabetic retinopathy detection using a deep cross-interaction neural network},
-author={Luo, Xiaoling and Liu, Chengliang and Wong, Waikeung and Wen, Jie and Jin, Xiaopeng and Xu, Yong},
-booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-volume={37},
-number={7},
-pages={8993--9001},
-year={2023}
+  title={MVCINN: multi-view diabetic retinopathy detection using a deep cross-interaction neural network},
+  author={Luo, Xiaoling and Liu, Chengliang and Wong, Waikeung and Wen, Jie and Jin, Xiaopeng and Xu, Yong},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={37},
+  number={7},
+  pages={8993--9001},
+  year={2023}
 }
 
 @article{luo2024lesion,
