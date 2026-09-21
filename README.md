@@ -60,6 +60,16 @@ If you find MFIDDR useful for your research, please consider citing the followin
   publisher={Elsevier}
 }
 
+@inproceedings{luo2026proconmv,
+  title     = {{ProConMV}: Provenance-Enabled Conceptual Framework for Interpretable Multi-View Diabetic Retinopathy Diagnosis},
+  author    = {Luo, Xiaoling and Yang, Shuo and Xu, Qihao and Zhang, Jiansong and Yang, Zhuoqin and Lai, Zhihui and Shen, Linlin and Liu, Chengliang},
+  booktitle = {Proceedings of the 43rd International Conference on Machine Learning},
+  series    = {Proceedings of Machine Learning Research},
+  volume    = {306},
+  year      = {2026},
+  publisher = {PMLR}
+}  
+
 @inproceedings{luo2023mvcinn,
 title={MVCINN: multi-view diabetic retinopathy detection using a deep cross-interaction neural network},
 author={Luo, Xiaoling and Liu, Chengliang and Wong, Waikeung and Wen, Jie and Jin, Xiaopeng and Xu, Yong},
@@ -74,6 +84,9 @@ year={2023}
   title={A Lesion-Fusion Neural Network for Multi-View Diabetic Retinopathy Grading},
   author={Luo, Xiaoling and Xu, Qihao and Wang, Zhihua and Huang, Chao and Liu, Chengliang and Jin, Xiaopeng and Zhang, Jianguo},
   journal={IEEE Journal of Biomedical and Health Informatics},
+  volume={29},
+  number={5},
+  pages={3184--3193},
   year={2024},
   publisher={IEEE}
 }
